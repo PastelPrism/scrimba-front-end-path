@@ -39,19 +39,10 @@ If you think you can help me through all of this, for comments, feedback, to tea
 
 ⭐ Thank you and bye! 👋🙂  
 
-**ps: This README isn't finished yet, it's a pretty big course**
+*ps: This README isn't finished yet, it's a pretty big course*
 
 
-
-
-
-
-
-
-
-
-
-This is for now a placeholder.  
+This is from here a placeholder.  
 Meanwhile, enjoy some little sciences facts: 
 
 💡 Did you know, that a horse generally has more horsepower than juse one?  
